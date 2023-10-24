@@ -1,0 +1,12 @@
+/module4-solution
+    /js
+        app.module.js
+        data.module.js
+        menudata.service.js
+        categories.component.js
+        items.component.js
+        routes.js
+    /index.html
+    /lib
+        angular.min.js
+        angular-ui-router.min.js
